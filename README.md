@@ -1,4 +1,4 @@
-<img src="https://github.com/retarsis/retarsis/blob/master/assets/cheetah-vertical.jpeg" width="265" align="right" alt=""/>
+<img src="https://github.com/retarsis/retarsis/blob/master/assets/cheetah-vertical.jpeg" width="272" align="right" alt=""/>
 
 <!-- Introduction -->
 <h1>Hi 👋, I'm Max</h1>
