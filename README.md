@@ -1,7 +1,7 @@
 <img src="https://github.com/retarsis/retarsis/blob/master/assets/cheetah-vertical.jpeg" width="272" align="right" alt=""/>
 
 <!-- Introduction -->
-<h1>Hi 👋, I'm Max</h1>
+<h3>Hi 👋, I'm Max</h3>
 <h3>An engineer with a passion for building user interfaces</h3>
 
 <!-- Github stats -->
